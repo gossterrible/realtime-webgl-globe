@@ -2,10 +2,6 @@
 
 A webgl earth making it easy to add custom shapes at coordinates in realtime.
 
-![example gif](http://mikevanrossum.nl/stuff/realtime-webgl-globe/realtime-globe.gif)
-
-[Demo](http://mikevanrossum.nl/stuff/realtime-webgl-globe/example.html)!
-
 ## Features
 
 - Makes it easy to add custom shapes to the globe at lat/long positions.
